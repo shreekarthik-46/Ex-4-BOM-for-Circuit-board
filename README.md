@@ -129,6 +129,10 @@ Component values and PCB footprints are verified.
 Quantity of each component is automatically calculated.
 
 BOM report is successfully exported for manufacturing.
+<img width="1296" height="772" alt="image" src="https://github.com/user-attachments/assets/36c92356-6738-40e5-9181-32207ec71386" />
+<img width="1296" height="218" alt="image" src="https://github.com/user-attachments/assets/30e8aebd-705c-41d2-a792-f51dc2bbc1df" />
+
+
 
 **Result**
 
